@@ -1,0 +1,2 @@
+1. implement a /admin url pathway but dont add it to the navigation bar for the admin. it should prompt for a username and password to access it["username: admin", "password: DC2023"]
+2. the page should have some basic boilerplate admin dashboard things
