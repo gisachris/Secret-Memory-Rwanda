@@ -1,2 +1,5 @@
 1. implement a /admin url pathway but dont add it to the navigation bar for the admin. it should prompt for a username and password to access it["username: admin", "password: DC2023"]
-2. the page should have some basic boilerplate admin dashboard things
+2. the page should have some basic boilerplate admin dashboard things and a navigation of its own that has these urls and pages["editor", "documentaries"].
+3. the editor page should have a create folder section that asks for the phone number and folder name of the newly created folder which the editor can fill and add a new folder to the documentaries pages for both admin and normal paths
+4. the documentaries page should have all the documentaries on the main documentaries home page section.
+5. the documentaries page once a documentary is clicked inthe admin /documentaries page should give the options to delete or hide the selected folder.
